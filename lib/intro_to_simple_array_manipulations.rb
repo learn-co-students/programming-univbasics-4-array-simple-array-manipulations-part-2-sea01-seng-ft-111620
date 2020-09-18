@@ -23,7 +23,7 @@ def using_delete(array, string)
   array.delete(string)
 end  
 
-#delete the element at the index of the arra
+#delete the element at the index of the array
 def using_delete_at(array, integer)
   array.delete_at(integer)
 end
